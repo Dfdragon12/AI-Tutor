@@ -1,0 +1,7 @@
+{
+    "speechRegion": "westus2",
+    "speechKey": "FNLG999IfFoSOl7qOzheq1ozv7b288hEOs7eh8nvS3rmdBpPfSO4JQQJ99BEAC8vTInXJ3w3AAAYACOGGqU1",
+    "openaiEndpoint": "https://avatartest8935991631.openai.azure.com/",
+    "openaiKey": "Dq1Kw2l6EPuO4OEQ2JVYWBoRcD5jiw2VpqIPLhdrOZ8sBR0E0IVOJQQJ99BEACHYHv6XJ3w3AAAAACOGoj9v",
+    "openaiDeployment": "gpt-4.1"
+  }
